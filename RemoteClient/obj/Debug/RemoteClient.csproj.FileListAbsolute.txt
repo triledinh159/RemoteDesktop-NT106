@@ -1,0 +1,9 @@
+D:\NT106\NetView-main\RemoteClient\bin\Debug\RemoteClient.exe
+D:\NT106\NetView-main\RemoteClient\bin\Debug\RemoteClient.pdb
+D:\NT106\NetView-main\RemoteClient\obj\Debug\RemoteClient.csproj.AssemblyReference.cache
+D:\NT106\NetView-main\RemoteClient\obj\Debug\RemoteClient.FormMain.resources
+D:\NT106\NetView-main\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+D:\NT106\NetView-main\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.cache
+D:\NT106\NetView-main\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+D:\NT106\NetView-main\RemoteClient\obj\Debug\RemoteClient.exe
+D:\NT106\NetView-main\RemoteClient\obj\Debug\RemoteClient.pdb

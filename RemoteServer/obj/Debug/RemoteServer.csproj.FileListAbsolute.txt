@@ -1,0 +1,13 @@
+D:\NT106\NetView-main\RemoteServer\bin\Debug\RemoteServer.exe.manifest
+D:\NT106\NetView-main\RemoteServer\bin\Debug\RemoteServer.application
+D:\NT106\NetView-main\RemoteServer\bin\Debug\RemoteServer.exe
+D:\NT106\NetView-main\RemoteServer\bin\Debug\RemoteServer.pdb
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.csproj.AssemblyReference.cache
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.Menu.resources
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.cache
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.csproj.CoreCompileInputs.cache
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.exe.manifest
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.application
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.exe
+D:\NT106\NetView-main\RemoteServer\obj\Debug\RemoteServer.pdb
